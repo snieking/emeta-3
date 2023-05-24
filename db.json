@@ -1,0 +1,28 @@
+{
+  "collections": [
+    {
+      "id": 0,
+      "name": "MOTS D’AMOUR Collection - Rare Edition",
+      "description": "Unleash your curiosity with our \"MOTS D'AMOUR Rare Edition\" Mystery Box! Immerse yourself in a journey of chic surprise as you unlock an enigmatic piece from this diversified collection. Each Mystery Box encloses one distinctive, in-game usable item from 23 exclusive assets, each one designed to radiate charm and sophistication. Embrace the allure of discovery and let your style narrative take an exciting turn. Are you ready to reveal your unique fashion find? Unravel the mystery!",
+      "image": "https://moqh65olv2.execute-api.eu-central-1.amazonaws.com/prod/bsc/0x4afb722ca7d48ed160b445de3976bf6f2abf533f/0/image",
+      "external_link": "https://myneighboralice.com"
+    },
+    {
+      "id": 1,
+      "name": "MOTS D’AMOUR Collection - Epic Edition",
+      "description": "Indulge in a journey of stylish mystery with our \"MOTS D'AMOUR Epic Edition\" Mystery Box! Experience the thrill as you uncover one of the four coveted assets from this enigmatic Edition. Each box houses one elusive, chic piece, perfect for uplifting your in-game avatar. Dive into the captivating thrill of anticipation and allow your fashion tale to take a compelling twist. Are you set to unveil your exclusive fashion treasure? Unbox the excitement!",
+      "image": "https://moqh65olv2.execute-api.eu-central-1.amazonaws.com/prod/bsc/0x41a163ee05352010ed1890c3b470713ec8ff31c3/0/image",
+      "external_link": "https://myneighboralice.com"
+    },
+    {
+      "id": 2,
+      "name": "MOTS D’AMOUR Collection - Legendary Edition",
+      "description": "Embark on an extraordinary fashion escapade with our \"MOTS D'AMOUR Legendary Edition\" Mystery Box! Revel in anticipation as you unlock the exclusive \"Two Sides of the Heart Uniform,\" an epitome of unparalleled style and luxury. Each Mystery Box promises an unforgettable style elevation, letting you make a legendary statement in-game. Ready to experience the pinnacle of fashion exclusivity? Dive into the mystery and create your legendary style saga.",
+      "image": "https://t3pkczeeie.execute-api.eu-central-1.amazonaws.com/prod/bsc/0x3d9ee710f69f338168c85a26d0cdb5b9a2d0c60d/0/image",
+      "external_link": "https://myneighboralice.com"
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
